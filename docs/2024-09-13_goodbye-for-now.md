@@ -1,6 +1,6 @@
 # Goodbye for now
 
-After much thought and deliberation, I'm taking an indefinite break from Ethereum L1 R&D. I dedicated more than 7 years to this effort, achieved for more than I ever expected, and had an incredible time doing it.
+After much thought and deliberation, I'm taking an indefinite break from Ethereum L1 R&D. I dedicated more than 7 years to this effort, achieved far more than I ever expected, and had an incredible time doing it.
 
 I am humbled by the opportunity and trust afforded to me by those at the EF, the client teams and others close to core development, and the community at large. It was an unbelievable experience helping steward Ethereum into the age of proof-of-stake. I wouldn't trade it for anything.
 
